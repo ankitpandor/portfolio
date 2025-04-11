@@ -12,7 +12,7 @@ export const Bio = {
     github: "https://github.com/ankitpandor",
     linkedin: "https://www.linkedin.com/in/ankit-pandor-602a90246/",
     email: "pandorankit3199@gmail.com",
-    resume: "https://drive.google.com/file/d/1eWY_ajbil9s4FbG_W9Jy2-wuMLd35zHQ/view?usp=sharing"
+    resume: "https://drive.google.com/file/d/13FexAB0lcgt8HKNw9AylzSvtFdz-Ud_q/view?usp=drive_link"
 
 };
 
@@ -73,7 +73,7 @@ export const skills = [
             [
                 {
                     name: "Git",
-                    image: "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+                    image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
                 },
                 {
                     name: "Github",

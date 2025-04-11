@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Hitesh Mori</Logo>
+        <Logo>Ankit Pandor</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
 
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Hitesh Mori. All rights reserved.
+          &copy; 2024 Ankit Pandor. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
