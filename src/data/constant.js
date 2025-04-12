@@ -12,7 +12,7 @@ export const Bio = {
     github: "https://github.com/ankitpandor",
     linkedin: "https://www.linkedin.com/in/ankit-pandor-602a90246/",
     email: "pandorankit3199@gmail.com",
-    resume: "https://drive.google.com/file/d/13FexAB0lcgt8HKNw9AylzSvtFdz-Ud_q/view?usp=drive_link"
+    resume: "https://drive.google.com/file/d/1BSm90Z85g4GFxWb8zEXHAmkRW0TqPFHT/view?usp=sharing"
 
 };
 
@@ -155,6 +155,21 @@ export const projects = [
         catagory: "Android App",
         github: "https://github.com/Niraj-KC/tic-tech-teo-24/tree/main/teach_assist",
     },
+    {
+        id: "2",
+        title: "Edusity",
+        description: "I completed a project using React Framework",
+        image: "https://assets.leetcode.com/users/images/63cfb3bd-f98e-44cc-9c97-13842e9e830e_1744442160.8691971.png",
+        tags: [
+            "React js",
+            "HTML",
+            "CSS"
+
+        ],
+        catagory: "Website",
+        github: "https://github.com/ankitpandor/Edusity",
+    },
+
 
     
 
