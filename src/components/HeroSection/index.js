@@ -2,7 +2,7 @@ import React from 'react';
 import Typewriter from 'typewriter-effect';
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, SocialMediaIcons, SocialMediaIcon, ResumeButton } from './HeroStyledComponents'
 import { Bio } from '../../data/constant';
-import HeroIMG from '../../images/user-4.png'
+import HeroIMG from '../../images/AP.jpg'
 import HeroAnimation from '../../HeroBgAnimation'
 
 const HeroSection = () => {
