@@ -159,7 +159,7 @@ export const projects = [
         id: "2",
         title: "Edusity",
         description: "I completed a project using React Framework",
-        image: "https://assets.leetcode.com/users/images/63cfb3bd-f98e-44cc-9c97-13842e9e830e_1744442160.8691971.png",
+        image: "https://assets.leetcode.com/users/images/56a44a63-359b-4f9b-a3ab-3e99330c5dc6_1744471784.8807719.png",
         tags: [
             "React js",
             "HTML",
@@ -169,7 +169,164 @@ export const projects = [
         catagory: "Website",
         github: "https://github.com/ankitpandor/Edusity",
     },
+    // {
+    //     id: "4",
+    //     title: "EduShakha",
+    //     description: "We completed a project using Flutter, Dart, MongoDB,Django at Hackout 2023, DAIICT hackathon.(7th Rank)",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/edushakha_cover.jpg?alt=media&token=7959e8e9-f53d-462e-bcba-dcc06854a645",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Django",
+    //         "MonogoDB",
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Niraj-KC/Edusakha-Hackout-23",
+    // },
+    // {
+    //     id: "5",
+    //     title: "ScannerApp",
+    //     description: "We completed a project using Flutter, Dart, Firebase at HackNUThon 4.0, Nirma University University hackathon.(5th Rank)",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/fetch_info_cover.jpg?alt=media&token=45f943e4-dce7-41db-a417-83bfa45bdfb5",
+    //     tags: [
+    //         "Flutter",
+    //         "Firebase",
+    //         "Dart",
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Hitesh123mori/Scanner-App---Flutter",
+    // },
 
+    // {
+    //     id: "6",
+    //     title: "ChatApp",
+    //     description: "I completed a project using Flutter and Dart with Firebase as the database.",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/chat_cover.jpg?alt=media&token=92dbf06c-7a4e-4074-aba8-07dfaa487307",
+    //     tags: [
+
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase"
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Hitesh123mori/Chat_App",
+    // },
+
+
+    // {
+    //     id: "7",
+    //     title: "SmartLink",
+    //     description: "We completed a project using Flutter, Dart, Firebase at Ingenium 5, Ahmedabad University hackathon.",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/smartlink_cover.jpg?alt=media&token=f0861375-43e2-4421-904f-8c32f3e50011",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase",
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Hitesh123mori/ingenious-5.0",
+    // },
+    // {
+    //     id: "8",
+    //     title: "Video Confirence",
+    //     description: "I completed a project using Flutter and Dart with Firebase as the database. It allows users to create new meetings, schedule meetings, share screens, and more. This project showcases my skills in mobile app development and backend integration.",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/meetwith_cover.jpg?alt=media&token=c56b7aa0-1b9d-4c67-813c-4f7069ef75a4",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase",
+    //         "Zegocloud"
+
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Hitesh123mori/video_meet_App",
+    // },
+
+
+
+
+    // {
+    //     id: "9",
+    //     title: "Contact Manager",
+    //     description: "I completed a project using Flutter and Dart with Firebase as the database, incorporating data structures and algorithms (DSA) for more efficient searching and sorting. It showcases my skills in mobile app development and backend integration.",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/contact_manager_cover.jpg?alt=media&token=b6955d5e-dc5d-44bc-94e5-5b12caa90299",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase"
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Hitesh123mori/Contact_Manager",
+    // },
+
+    // {
+    //     id: "10",
+    //     title: "FraudEye",
+    //     description: "We completed a project using Flutter,Dart,Firebase,ML,Python,Flask,at HackNuThon 6.0, Nirma University. ",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/FraudEye_cover.png?alt=media&token=c0ffd030-d6e4-4339-9d4b-697c4bfbfc40",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase",
+    //         "Python",
+    //         "ML",
+    //         "Flask"
+    //     ],
+    //     catagory: "Web App",
+    //     github: "https://github.com/Hitesh123mori/FraudEye",
+    // },
+
+    // {
+    //     id: "11",
+    //     title: "Paper2x",
+    //     description: "We completed a project using Flutter,Dart,Firebase,ML,Python,Flask,at Mined 2025, Nirma University. ",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/Paper2x_cover.png?alt=media&token=2a5b5abb-6922-4144-b8ad-b40737957353",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase",
+    //         "Python",
+    //         "ML",
+    //         "Flask"
+    //     ],
+    //     catagory: "Web App",
+    //     github: "https://github.com/Hitesh123mori/Paper2X",
+    // },
+
+    // {
+    //     id: "12",
+    //     title: "ConnectWith",
+    //     description: "I completed a project using Flutter,Dart and Firebase and for efficient suggesting friends and posts i used graph algorithms.",
+    //     image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/connectwith_cover.png?alt=media&token=dd44f39f-79c6-43a4-b48c-3a219915fab0",
+    //     tags: [
+    //         "Flutter",
+    //         "Dart",
+    //         "Firebase",
+    //         "Python",
+    //         "ML",
+    //         "Flask"
+    //     ],
+    //     catagory: "Android App",
+    //     github: "https://github.com/Hitesh123mori/Connect-with",
+    // },
+    {
+        id: "2",
+        title: "Khedut Mitra",
+        description: "We completed a project at Hackout 2024, DAIICT hackathon.(Top 10)",
+        image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/khedut_mitra_cover.jpg?alt=media&token=996dad56-7143-4f61-9498-7c963ebc7b20",
+        tags: [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "CNN",
+            "Flask",
+            "Python"
+
+        ],
+        catagory: "Android App",
+        github: "https://github.com/Hitesh123mori/hack_24",
+    },
+    
 
     
 
