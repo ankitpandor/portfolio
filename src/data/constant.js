@@ -128,7 +128,7 @@ export const education = [
     img: "",
     school: "Nirma University,Ahemedabad",
     date: "Sep 2022 - June 2026",
-    grade: "7.00",
+    grade: "7.15",
     desc: "I am currently pursuing my B-Tech in Computer Science at Nirma University.",
     degre: "Computer Science & Engineering",
   },
