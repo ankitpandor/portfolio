@@ -12,7 +12,7 @@ export const Bio = {
     github: "https://github.com/ankitpandor",
     linkedin: "https://www.linkedin.com/in/ankit-pandor-602a90246/",
     email: "pandorankit3199@gmail.com",
-    resume: "https://drive.google.com/file/d/1BSm90Z85g4GFxWb8zEXHAmkRW0TqPFHT/view?usp=sharing"
+    resume: "https://drive.google.com/file/d/1OjR8auZJK1gY_FO3sDEIZ5KtZrsrdv1S/view?usp=sharing"
 
 };
 
